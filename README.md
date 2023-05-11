@@ -11,5 +11,6 @@
 #For Frontend-----
 1.We are using react for this.
 2.Make sure you have node installed on the machine.
-3.I have compressed node modules too but if you face any issue,then run the command "npm i" in vscode terminal.
+3 run the command "npm i" in vscode terminal.to install node module
+4.if this does not work then run npm install --legacy-peer-deps
 4.Use vscode to run this.
